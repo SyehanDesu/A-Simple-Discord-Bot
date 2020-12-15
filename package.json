@@ -1,0 +1,31 @@
+{
+  "name": "NamaBot Lu",
+  "version": "0.0.1",
+  "description": "Deskripsi Bot Lu",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Anjay Mabar Hayuk",
+  "dependencies": {
+    "express": "^4.17.1",
+    "discord.js": "^12.5.0",
+    "moment": "^2.29.1",
+    "snekfetch": "^4.0.4",
+    "http": "^0.0.0",
+    "figlet": "^1.5.0",
+    "pretty-ms": "^7.0.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/probable-scented-eggplant"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
